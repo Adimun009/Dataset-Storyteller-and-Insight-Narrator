@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+openpyxl
+python-multipart
+SQLAlchemy
+python-dotenv
+psycopg2-binary
+psycopg[binary]
